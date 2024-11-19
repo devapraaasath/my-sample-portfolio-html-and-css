@@ -1,0 +1,40 @@
+.header{
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.header > .box2{
+    color:steelblue;
+}
+.flex-container1{
+    justify-content: center;
+}
+.flex-container1 >.box1{
+    font-size: 20px;
+    margin-left: 150px;
+
+    
+}
+
+.flex-container2 > .box1 h2{
+    color: steelblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left:250px ;
+    
+}
+.flex-container2 > .box2{
+    font-size: 20px;
+    margin-left: 300px;
+    margin-right:200px;
+}
+.back a{
+    color:slategrey;
+    text-decoration: none;
+    justify-content: center;
+    
+}
+.back a:hover{
+    color:black;
+    text-decoration: underline;
+}
